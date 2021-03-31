@@ -76,6 +76,15 @@
     }
 
 
+    .header-menubar li ul {
+        left: 110px;
+        transition: none;
+        z-index: 999;
+        box-shadow: inherit;
+        width: 180px;
+    }
+
+
    
 
 }
